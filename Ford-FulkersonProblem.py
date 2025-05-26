@@ -1,3 +1,6 @@
+# Autor: Davi Oliveira Sad
+# Última Alteração: 26/05/2025
+
 # Fila dupla para o BFS
 from collections import deque
 
